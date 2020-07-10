@@ -1,0 +1,276 @@
+{
+    "name":"English",
+    "text": {
+        "new_kaomoji": "New Kaomoji",
+        "noAccount_1":"No Account?",
+        "noAccount_2":" Create one!",
+        "signup_success":"Sign up success!, Please login to continue",
+        "news":"News",
+        "leaderboard":"Weekly Leaderboard",
+        "comments":"Comments",
+        "no_result":"No Result ( ´•̥̥̥ω•̥̥̥` )",
+        "updated":"Updated",
+        "kaomojiAmount": "The total of kaomojis now:",
+        "forgotPassword": "Forgot your password?",
+        "enterYourEmail": "Enter your Email",
+        "resetPasswordSendSuccess": "The reset link is successfully sent to your email!",
+        "invalidLoginInformation": "Invalid Email or Password",
+        "invalidLink": "Invalid Link!",
+        "resetPasswordExecuteSuccess": "Reset password success!, Please login to continue",
+        "invalidInformation": "Invalid information",
+        "bothPasswordNotMatch": "Both of the password you entered don't match",
+        "accountAlreadyExisted": "Account already existed"
+    },
+    "components":{
+        "kaomoji":"Kaomoji",
+        "lang":"Languages",
+        "home":"Home",
+        "about":"About",
+        "search":"Search",
+        "login":"Login",
+        "logout":"Logout",
+        "profile":"Profile",
+        "favorite":"Favorite",
+        "history":"History",
+        "console":"Console",
+        "signup":"Sign up",
+        "required":"Required",
+        "404":"404 Not Found",
+        "resetPassword": "Reset Password"
+    },
+    "messages":{
+        "logout":"Good bye (´;ω;`)",
+        "login":"Welcome back!",
+        "addToFavorite":"Added to favorite!",
+        "removeFromFavorite":"Removed from favorite!",
+        "loginToUseFavorite":"Login to use favorite!",
+        "removeFromHistory":"Removed from history!",
+        "error":"Uxexpected Error! Please try again",
+        "copied":"Copied!",
+        "copyFailed":"Error! Please try again",
+        "addLike":"Liked!",
+        "removeLike":"Like removed",
+        "loginToLike": "login to like!",
+        "loginTokenExpired": "Login Token Expired! Please Login again!"
+    },
+    "category":{
+        "mood":"Mood",
+        "action":"Action",
+        "animal":"Animal",
+        "misc":"Misc"
+    },
+    "tags":[
+        {
+            "category":"0",
+            "data":[
+                {
+                    "id":"1",
+                    "name":"Happy"
+                },
+                {
+                    "id":"2",
+                    "name":"Sad"
+                },
+                {
+                    "id":"3",
+                    "name":"Excited"
+                },
+                {
+                    "id":"4",
+                    "name":"Love"
+                },
+                {
+                    "id":"5",
+                    "name":"Triumph"
+                },
+                {
+                    "id":"6",
+                    "name":"Confused"
+                },
+                {
+                    "id":"7",
+                    "name":"Crazy"
+                },
+                {
+                    "id":"8",
+                    "name":"Hungry"
+                },
+                {
+                    "id":"9",
+                    "name":"Meh"
+                },
+                {
+                    "id":"10",
+                    "name":"Shy"
+                },
+                {
+                    "id":"11",
+                    "name":"Smug"
+                },
+                {
+                    "id":"12",
+                    "name":"Surprise"
+                },
+                {
+                    "id":"13",
+                    "name":"Angry"
+                },
+                {
+                    "id":"14",
+                    "name":"Scared"
+                },
+                {
+                    "id":"15",
+                    "name":"Worried"
+                },
+                {
+                    "id":"16",
+                    "name":"Tired"
+                },
+                {
+                    "id":"17",
+                    "name":"Derp"
+                }
+            ]
+        },
+        {
+            "category":"1",
+            "data":[
+                {
+                    "id":"18",
+                    "name":"Hiding"
+                },
+                {
+                    "id":"19",
+                    "name":"Flipping Table"
+                },
+                {
+                    "id":"20",
+                    "name":"Cheer up"
+                },
+                {
+                    "id":"21",
+                    "name":"Fighting"
+                },
+                {
+                    "id":"22",
+                    "name":"Give up"
+                },
+                {
+                    "id":"23",
+                    "name":"Crying"
+                },
+                {
+                    "id":"24",
+                    "name":"Waving"
+                },
+                {
+                    "id":"25",
+                    "name":"Winking"
+                },
+                {
+                    "id":"26",
+                    "name":"Thinking"
+                },
+                {
+                    "id":"27",
+                    "name":"Laughing"
+                },
+                {
+                    "id":"28",
+                    "name":"Apologizing"
+                },
+                {
+                    "id":"29",
+                    "name":"Running"
+                },
+                {
+                    "id":"30",
+                    "name":"Music"
+                },
+                {
+                    "id":"31",
+                    "name":"Saluting"
+                },
+                {
+                    "id":"32",
+                    "name":"Sleeping"
+                },
+                {
+                    "id":"33",
+                    "name":"Dancing"
+                },
+                {
+                    "id":"34",
+                    "name":"Hugging"
+                },
+                {
+                    "id":"35",
+                    "name":"Kissing"
+                },
+                {
+                    "id":"36",
+                    "name":"Lying"
+                },
+                {
+                    "id":"37",
+                    "name":"Slobber"
+                },
+                {
+                    "id":"38",
+                    "name":"Receving"
+                },
+                {
+                    "id": "48",
+                    "name":"Thumbs up"
+                }
+            ]
+        },
+        {
+            "category":"2",
+            "data":[
+                {
+                    "id":"39",
+                    "name":"cat"
+                },
+                {
+                    "id":"40",
+                    "name":"dog"
+                },
+                {
+                    "id":"41",
+                    "name":"rabbit"
+                },
+                {
+                    "id":"42",
+                    "name":"bird"
+                },
+                {
+                    "id":"43",
+                    "name":"sheep"
+                },
+                {
+                    "id":"44",
+                    "name":"bear"
+                },
+                {
+                    "id":"45",
+                    "name":"pig"
+                },
+                {
+                    "id":"47",
+                    "name":"cow"
+                }
+            ]
+        },
+        {
+            "category":"3",
+            "data":[
+                {
+                    "id":"46",
+                    "name":"Big Kaomoji"
+                }
+            ]
+        }
+    ]
+}
