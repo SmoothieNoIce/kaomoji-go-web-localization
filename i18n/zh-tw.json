@@ -19,7 +19,11 @@
         "resetPasswordExecuteSuccess": "修改密碼成功！請重新登入",
         "invalidInformation": "無效的資訊",
         "bothPasswordNotMatch": "兩個輸入的密碼不一樣",
-        "accountAlreadyExisted": "帳號已存在"
+        "accountAlreadyExisted": "帳號已存在",
+        "pending": "審核中(๑╹ڡ╹)",
+        "added": "已新增(・∀・)",
+        "rejected": "No(´._.`)",
+        "add_suggest_kaomoji": "建議"
     },
     "components":{
         "kaomoji":"顏文字",
@@ -36,7 +40,14 @@
         "favorite":"我的最愛",
         "history":"歷史紀錄",
         "404":"404 OAO",
-        "resetPassword": "更改密碼"
+        "resetPassword": "更改密碼",
+        "option":"選項",
+        "suggestKaomoji":"顏文字建議",
+        "tag":"標籤",
+        "userName":"使用者名稱",
+        "createdAt":"新增日期",
+        "status":"狀態",
+        "actions":"動作"
     },
     "messages":{
         "logout":"掰掰 (´;ω;`)",
@@ -51,7 +62,11 @@
         "addLike":"讚!",
         "removeLike":"讚已移除",
         "loginToLike": "登入以按讚!",
-        "loginTokenExpired": "登入憑證以過期！請重新登入！"
+        "loginTokenExpired": "登入憑證以過期！請重新登入！",
+        "suggestAddSuccess":"新增成功!",
+        "alreadyExist":"顏文字已存在!",
+        "loginToContinue": "請登入來繼續操作(/▽＼)",
+        "noContent": "請輸入內容(・-・*)"
     },
     "category":{
         "mood":"心情",
@@ -255,11 +270,15 @@
                 },
                 {
                     "id":"44",
-                    "name":"雄"
+                    "name":"熊"
                 },
                 {
                     "id":"45",
                     "name":"豬"
+                },
+                {
+                    "id":"47",
+                    "name":"牛"
                 }
             ]
         },
