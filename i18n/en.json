@@ -19,7 +19,11 @@
         "resetPasswordExecuteSuccess": "Reset password success!, Please login to continue",
         "invalidInformation": "Invalid information",
         "bothPasswordNotMatch": "Both of the password you entered don't match",
-        "accountAlreadyExisted": "Account already existed"
+        "accountAlreadyExisted": "Account already existed",
+        "pending": "Pending(๑╹ڡ╹)",
+        "added": "Added(・∀・)",
+        "rejected": "Rejected(´._.`)",
+        "add_suggest_kaomoji": "Suggest"
     },
     "components":{
         "kaomoji":"Kaomoji",
@@ -36,7 +40,14 @@
         "signup":"Sign up",
         "required":"Required",
         "404":"404 Not Found",
-        "resetPassword": "Reset Password"
+        "resetPassword": "Reset Password",
+        "option":"Option",
+        "suggestKaomoji":"Suggest Kaomoji",
+        "tag":"Tags",
+        "userName":"User name",
+        "createdAt":"Created at",
+        "status":"Status",
+        "actions":"Actions"
     },
     "messages":{
         "logout":"Good bye (´;ω;`)",
@@ -51,7 +62,11 @@
         "addLike":"Liked!",
         "removeLike":"Like removed",
         "loginToLike": "login to like!",
-        "loginTokenExpired": "Login Token Expired! Please Login again!"
+        "loginTokenExpired": "Login Token Expired! Please Login again!",
+        "suggestAddSuccess":"Added successfully!",
+        "alreadyExist":"Already Exist!",
+        "loginToContinue": "login to continue(/▽＼)",
+        "noContent": "No Content(・-・*)"
     },
     "category":{
         "mood":"Mood",
